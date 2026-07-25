@@ -75,8 +75,6 @@ The model was evaluated using:
 - Recall
 - F1-score
 
-> *(Replace this section with your actual results after training.)* TTTHHHHHIIIISSSSS
-
 Example:
 
 | Metric | Value |
