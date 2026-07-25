@@ -81,19 +81,26 @@ Example:
 
 | Metric | Value |
 |---------|--------|
-| Validation Accuracy | XX% |
-| Test Accuracy | XX% |
+| Validation Accuracy |  95.63% |
+| Test Accuracy | 95% |
 
 ---
 
 ## 📸 Sample Outputs
 
-(Add screenshots of:)  TTTHHHHHIIIISSSSS
+- Validation Accuracy
+<img width="319" height="92" alt="image" src="https://github.com/user-attachments/assets/885630ff-028d-439b-8638-5e9edab2f1d7" />
 
-- Training Accuracy
-- Loss Curve
+Classification Report
+<img width="442" height="232" alt="image" src="https://github.com/user-attachments/assets/8e9047d2-62fb-4c62-84cc-6ebbf690d650" />
+
 - Confusion Matrix
-- Sample Predictions
+<img width="855" height="768" alt="image" src="https://github.com/user-attachments/assets/f8a37dfc-cf7a-4484-b713-f40e4225f5e6" />
+
+
+
+
+
 
 ---
 
@@ -130,11 +137,10 @@ satellite-land-cover-classification/
 
 ## 🚀 Future Improvements
 
-- Fine-tune the entire ResNet50 network
-- Experiment with EfficientNet and Vision Transformers
-- Use multispectral Sentinel-2 bands
-- Apply the classifier to real satellite imagery
-- Detect land-cover changes between different years
+- Fine-tune the entire ResNet50 network ✓
+- Use multispectral Sentinel-2 bands ✓
+- Apply the classifier to real satellite imagery ✓
+- Detect land-cover changes between different years ✓
 - Build a complete deforestation detection pipeline
 
 ---
@@ -153,5 +159,4 @@ satellite-land-cover-classification/
 **Arpita**
 
 B.Tech Computer Science Engineering
-
 Computer Vision • Machine Learning • Remote Sensing
